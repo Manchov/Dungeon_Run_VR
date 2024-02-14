@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>116680b900025cf409d96c7bdf6b0b5f</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>43096db1350861f40ba63a71f8642be2</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b5ccf05d0d3cfd444a52c931ade02144</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3e1a80bb0fb7ae043af51d2f86f69270</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>45728388c07b8e141a6585d7195f00ab</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>159920dad168f464da386213e4860fc0</guid>
+    <fileName>Assets/Plugins/unity-sweeper-main/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-12-14T04:37:41+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>058b552dd102add41b411e2e1d51b358</guid>
+    <fileName>Assets/AssignCanvasEventCamera.cs</fileName>
+    <timeStamp>2024-02-09T06:45:35.8151223+01:00</timeStamp>
+    <typeFullName>
+      <string>AssignCanvasEventCamera</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0b0ef7c32ba0fc84db9079cd86b9a837</guid>
+    <fileName>Assets/CoinSoundOnDestroy.cs</fileName>
+    <timeStamp>2024-02-09T09:43:10.6282594+01:00</timeStamp>
+    <typeFullName>
+      <string>CoinSoundOnDestroy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aadfff4f9513f784b939adce392dc12e</guid>
+    <fileName>Assets/Editor/HierarchyExporter.cs</fileName>
+    <timeStamp>2024-02-08T17:25:28.126069+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>616827f3b9df74e488694735bf0da8f1</guid>
+    <fileName>Assets/TempleMan/Scripts/CameraFollow.cs</fileName>
+    <timeStamp>2024-02-09T02:41:06.8818183+01:00</timeStamp>
+    <typeFullName>
+      <string>CameraFollow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cbab5b945f9716b41972adb78cdc8d90</guid>
+    <fileName>Assets/TempleMan/Scripts/CoinCollector.cs</fileName>
+    <timeStamp>2024-02-09T21:31:49.9772627+01:00</timeStamp>
+    <typeFullName>
+      <string>CoinCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a75787b492ecbee4a956768932719f71</guid>
+    <fileName>Assets/TempleMan/Scripts/CoinSpawner.cs</fileName>
+    <timeStamp>2024-02-09T23:01:59.9267097+01:00</timeStamp>
+    <typeFullName>
+      <string>CoinSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>91e6c6068232abd4fa4834cf4fbfcf17</guid>
+    <fileName>Assets/TempleMan/Scripts/DoorController.cs</fileName>
+    <timeStamp>2024-02-10T06:01:15.2962637+01:00</timeStamp>
+    <typeFullName>
+      <string>DoorController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>48e14f9cfb85d894ca85e53af9e010fe</guid>
+    <fileName>Assets/TempleMan/Scripts/ExitSpotController.cs</fileName>
+    <timeStamp>2024-02-10T05:05:30.067605+01:00</timeStamp>
+    <typeFullName>
+      <string>ExitSpotController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f0d6b8b8bd49c944a8d7890f312a25cd</guid>
+    <fileName>Assets/TempleMan/Scripts/FootstepSounds.cs</fileName>
+    <timeStamp>2024-02-09T03:50:22.38008+01:00</timeStamp>
+    <typeFullName>
+      <string>FootstepSounds</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1bd8b0130b3e41699d1bd5b4e7e4aec9</guid>
+    <fileName>Assets/TempleMan/Scripts/GazeInputController.cs</fileName>
+    <timeStamp>2024-02-10T06:01:15.3042793+01:00</timeStamp>
+    <typeFullName>
+      <string>GazeInputController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3aef94386c5e4bb19e2f80a34d7f830d</guid>
+    <fileName>Assets/TempleMan/Scripts/PlayerController.cs</fileName>
+    <timeStamp>2024-02-10T02:07:44.4056098+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8eecdee5cbf4a0b4eb0a201ddd3ef450</guid>
+    <fileName>Assets/TempleMan/Scripts/UIManager.cs</fileName>
+    <timeStamp>2024-02-10T08:40:34.5096383+01:00</timeStamp>
+    <typeFullName>
+      <string>UIManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7eebaaaf88782584ba347c3785d7c45e</guid>
+    <fileName>Assets/TempleMan/Scripts/VRPlayerMovement.cs</fileName>
+    <timeStamp>2024-02-09T02:10:06.9699411+01:00</timeStamp>
+    <typeFullName>
+      <string>VRPlayerMovement</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8aa8b54db4b198a4495a5453d6290a36</guid>
+    <fileName>Assets/Performance Tools/SuperLevelOptimizer/Scripts/SLO_AtlasMark.cs</fileName>
+    <timeStamp>2023-08-01T11:49:28+02:00</timeStamp>
+    <typeFullName>
+      <string>SLO_AtlasMark</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d1328a08197130b4d8615c2a8a77c9ad</guid>
+    <fileName>Assets/Performance Tools/SuperLevelOptimizer/Scripts/SLO_CombinedMark.cs</fileName>
+    <timeStamp>2023-08-01T11:50:03+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.SuperLevelOptimizer.SLO_CombinedMark</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3dd726f83c227f447b00eb5a07d833ca</guid>
+    <fileName>Assets/Performance Tools/SuperLevelOptimizer/Scripts/SLO_SourceMark.cs</fileName>
+    <timeStamp>2023-08-01T11:48:39+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.SuperLevelOptimizer.SLO_SourceMark</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a313dcb5827fd5e4d9aca48eaf1be162</guid>
+    <fileName>Assets/Performance Tools/SuperLevelOptimizer/Scripts/SuperLevelOptimizer.cs</fileName>
+    <timeStamp>2023-08-01T11:49:43+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.SuperLevelOptimizer.BakeType</string>
+      <string>NGS.SuperLevelOptimizer.SearchState</string>
+      <string>NGS.SuperLevelOptimizer.CombineState</string>
+      <string>NGS.SuperLevelOptimizer.SuperLevelOptimizer</string>
+      <string>NGS.SuperLevelOptimizer.CoefficientTable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f970ea55f9f84bf79b05dab180b8c125</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs</fileName>
+    <timeStamp>2018-03-28T22:02:22+02:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark01</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8ef7be1c625941f7ba8ed7cc71718c0d</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs</fileName>
+    <timeStamp>2018-03-28T22:02:22+02:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark01_UGUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e8538afcddc14efbb5d9e94b7ae50197</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark02.cs</fileName>
+    <timeStamp>2021-02-16T06:53:46+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark02</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a73109742c8d47ac822895a473300c29</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs</fileName>
+    <timeStamp>2021-02-16T06:53:21+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark03</string>
+      <string>TMPro.Examples.Benchmark03+BenchmarkType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dc20866c0d5e413ab7559440e15333ae</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark04.cs</fileName>
+    <timeStamp>2017-02-25T01:26:54+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark04</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2d687537154440a3913a9a3c7977978c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs</fileName>
+    <timeStamp>2019-04-13T10:56:27+02:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.CameraController</string>
+      <string>TMPro.Examples.CameraController+CameraModes</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>53d91f98a2664f5cb9af11de72ac54ec</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ChatController.cs</fileName>
+    <timeStamp>2021-02-16T06:55:06+01:00</timeStamp>
+    <typeFullName>
+      <string>ChatController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ac1eb05af6d391b4eb0f4c070a99f1d0</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/DropdownSample.cs</fileName>
+    <timeStamp>2019-04-24T22:55:43+02:00</timeStamp>
+    <typeFullName>
+      <string>DropdownSample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4b6f99e8bc54541bbd149b014ff441c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs</fileName>
+    <timeStamp>2017-05-17T01:13:54+02:00</timeStamp>
+    <typeFullName>
+      <string>EnvMapAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4f19c7f94c794c5097d8bd11e39c750d</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs</fileName>
+    <timeStamp>2017-02-25T01:27:45+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.ObjectSpin</string>
+      <string>TMPro.Examples.ObjectSpin+MotionType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2787a46a4dc848c1b4b7b9307b614bfd</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs</fileName>
+    <timeStamp>2017-02-25T01:27:55+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.ShaderPropAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9eff140b25d64601aabc6ba32245d099</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs</fileName>
+    <timeStamp>2021-02-16T06:55:19+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.SimpleScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d412675cfb3441efa3bf8dcd9b7624dc</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SkewTextExample.cs</fileName>
+    <timeStamp>2017-02-25T01:28:15+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.SkewTextExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e32c266ee6204b21a427753cb0694c81</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs</fileName>
+    <timeStamp>2017-02-25T01:28:31+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TeleType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43bcd35a1c0c40ccb6d472893fe2093f</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs</fileName>
+    <timeStamp>2017-11-29T01:21:11+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextConsoleSimulator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4d4c76e63944cba8c7d00f56334b98c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs</fileName>
+    <timeStamp>2021-02-16T06:55:47+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextMeshProFloatingText</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>76c11bbcfddf44e0ba17d6c2751c8d84</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs</fileName>
+    <timeStamp>2017-02-25T01:29:06+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextMeshSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c3c1afeda5e545e0b19add5373896d2e</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs</fileName>
+    <timeStamp>2018-03-28T22:02:22+02:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMPro_InstructionOverlay</string>
+      <string>TMPro.Examples.TMPro_InstructionOverlay+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a7eb92a01ed499a987bde9def05fbce</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs</fileName>
+    <timeStamp>2019-12-17T21:34:36+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_DigitValidator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f2c5b59b6874405865e2616e4ec276a</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs</fileName>
+    <timeStamp>2017-02-25T01:29:26+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_ExampleScript_01</string>
+      <string>TMPro.Examples.TMP_ExampleScript_01+objectType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>686ec78b56aa445795335fbadafcfaa4</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs</fileName>
+    <timeStamp>2019-12-13T01:19:56+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_FrameRateCounter</string>
+      <string>TMPro.Examples.TMP_FrameRateCounter+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>83680ab1a69f4102ac67d1459fe76e1f</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs</fileName>
+    <timeStamp>2017-12-16T01:28:47+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_PhoneNumberValidator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d736ce056cf444ca96e424f4d9c42b76</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs</fileName>
+    <timeStamp>2020-01-23T01:29:10+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextEventCheck</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1312ae25639a4bae8e25ae223209cc50</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs</fileName>
+    <timeStamp>2021-02-16T06:56:03+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_TextEventHandler</string>
+      <string>TMPro.TMP_TextEventHandler+CharacterSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+SpriteSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+WordSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+LineSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+LinkSelectionEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>21256c5b62f346f18640dad779911e20</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs</fileName>
+    <timeStamp>2021-02-16T06:56:17+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextInfoDebugTool</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>103e0a6a1d404693b9fb1a5173e0e979</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs</fileName>
+    <timeStamp>2019-04-17T00:34:52+02:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextSelector_A</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a05dcd8be7ec4ccbb35c26219884aa37</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs</fileName>
+    <timeStamp>2020-01-23T01:18:39+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextSelector_B</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>24b0dc2d1d494adbbec1f4db26b4cf83</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_UiFrameRateCounter.cs</fileName>
+    <timeStamp>2019-01-30T09:14:01+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_UiFrameRateCounter</string>
+      <string>TMPro.Examples.TMP_UiFrameRateCounter+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>91b8ba3d52e041fab2d0e0f169855539</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs</fileName>
+    <timeStamp>2018-10-02T23:59:00+02:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexColorCycler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2ed57967c52645d390a89dcf8f61ba73</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs</fileName>
+    <timeStamp>2019-12-06T21:21:53+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexJitter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7cfa58e417a46ea8889989684c2522e</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs</fileName>
+    <timeStamp>2017-02-25T01:30:58+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexShakeA</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e4e0d9ccee5f4950be8979268c9014e0</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeB.cs</fileName>
+    <timeStamp>2017-02-25T01:31:07+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexShakeB</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52ec835d14bd486f900952b77698b7eb</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs</fileName>
+    <timeStamp>2017-02-25T01:31:15+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexZoom</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>790744c462254b7ba8038e6ed28b3db2</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs</fileName>
+    <timeStamp>2017-02-25T01:31:24+01:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.WarpTextExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>905527b7c9bdf2a48a8169448e62995d</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Example/Scripts/CameraController.cs</fileName>
+    <timeStamp>2023-08-01T11:49:31+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f3c0f6e7c81b82d4ebf5750c86427ea3</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Example/Scripts/CullingSettingsController.cs</fileName>
+    <timeStamp>2023-08-01T11:50:20+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f4555ec9fe25084584d5f3e0742a9f6</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Example/Scripts/FPSCounter.cs</fileName>
+    <timeStamp>2023-08-01T11:48:40+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>606b698a5c5574941b870d06d1601c96</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Example/Scripts/FrustumCullingVisualization.cs</fileName>
+    <timeStamp>2023-08-01T11:48:57+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9fc19fcee8a431543a032cfbcf6764f2</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Example/Scripts/Joystick.cs</fileName>
+    <timeStamp>2023-08-01T11:49:40+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7024a2bf5badcd4bb9a1a64a9970abd</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Example/Scripts/SpawnController.cs</fileName>
+    <timeStamp>2023-08-01T11:50:13+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>06d8aba3a1f85c64f9131822e701bfbc</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Core/Scripts/AdvancedRenderSystem.cs</fileName>
+    <timeStamp>2023-08-01T11:48:14+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.AdvancedRenderSystem</string>
+      <string>NGS.AdvancedRenderSystem.CameraPreset</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2b19ab50eb85b904baf6bf384c808e5c</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Core/Scripts/ARSInfo.cs</fileName>
+    <timeStamp>2023-08-01T11:48:32+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.ARSInfo</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>950d26cdfefbf044db59efa14a0fb5de</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Core/Scripts/Helpers.cs</fileName>
+    <timeStamp>2023-08-01T11:49:33+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.BillboardOfGroupList</string>
+      <string>NGS.AdvancedRenderSystem.LayersHelper</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>223361fd0d4f1364aa0c70fe29824cd0</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Core/Scripts/Jobs.cs</fileName>
+    <timeStamp>2023-08-01T11:48:27+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.UpdateBillboardDataJob</string>
+      <string>NGS.AdvancedRenderSystem.QuickSortJob`2</string>
+      <string>NGS.AdvancedRenderSystem.IComarator`1</string>
+      <string>NGS.AdvancedRenderSystem.BillboardDataDistanceComarator</string>
+      <string>NGS.AdvancedRenderSystem.BillboardDataTimeComarator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2fd9db291ae50cd458b283156b804115</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Core/Scripts/TexturesManager.cs</fileName>
+    <timeStamp>2023-08-01T11:48:33+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.TextureResolution</string>
+      <string>NGS.AdvancedRenderSystem.TexturesManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d3b578e92c2de448a146bfde64ecc6a</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Example/Scripts/ApplicationClose.cs</fileName>
+    <timeStamp>2023-08-01T11:48:17+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.Examples.ApplicationClose</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ad011b8e1b360f840a18a62057e98b31</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Example/Scripts/DesktopCameraController.cs</fileName>
+    <timeStamp>2023-08-01T11:49:46+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.Examples.DesktopCameraController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>93d0cca596545f046b06d4a9ce9e47c4</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Example/Scripts/FPSCounter.cs</fileName>
+    <timeStamp>2023-08-01T11:49:32+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.Examples.FPSCounter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ea950b5472109b446acf9f295ac1ecd0</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Example/Scripts/Joystick.cs</fileName>
+    <timeStamp>2023-08-01T11:50:16+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.Examples.Joystick</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ff35e9b79fbfcaa439db9ac02a8d8659</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Example/Scripts/MobileCameraController.cs</fileName>
+    <timeStamp>2023-08-01T11:50:26+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.Examples.MobileCameraController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>80baf14f49b7b37459063c069eba005c</guid>
+    <fileName>Assets/Performance Tools/SuperLevelOptimizer/Scripts/Editor/AssetsManager.cs</fileName>
+    <timeStamp>2023-08-01T11:49:14+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>93af56a11c1f16f4a8b05d86f95e75f7</guid>
+    <fileName>Assets/Performance Tools/SuperLevelOptimizer/Scripts/Editor/MeshCombiner.cs</fileName>
+    <timeStamp>2023-08-01T11:49:32+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>152d1faf0796e894db00f8ef1c59ebb3</guid>
+    <fileName>Assets/Performance Tools/SuperLevelOptimizer/Scripts/Editor/SuperLevelOptimizerEditor.cs</fileName>
+    <timeStamp>2023-08-01T11:48:20+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d7b062c1549fd1244b6808a6d86a21c0</guid>
+    <fileName>Assets/Performance Tools/SuperLevelOptimizer/Scripts/Editor/SuperLevelOptimizerWindow.cs</fileName>
+    <timeStamp>2023-08-01T11:50:05+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c418990ca6c5d2c4493efeb680ed73bd</guid>
+    <fileName>Assets/Performance Tools/SuperLevelOptimizer/Scripts/Editor/TexturePacker.cs</fileName>
+    <timeStamp>2023-08-01T11:49:55+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>39006cf69c1cb114d85511b8fce76eb6</guid>
+    <fileName>Assets/Performance Tools/SuperLevelOptimizer/Scripts/Editor/UnityEditorHelper.cs</fileName>
+    <timeStamp>2023-08-01T11:48:37+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f7a72ffbb5e7b3248b6b29aa57337b84</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/ChunksMaster/ChunksMaster.cs</fileName>
+    <timeStamp>2023-08-01T11:50:22+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5c5f53a306032da499a0eb85fd58bc87</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/ChunksMaster/ChunksMasterEditorWindow.cs</fileName>
+    <timeStamp>2023-08-01T11:48:54+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c93724f801cba814592883c11637e6dd</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/Common/EditorHelper.cs</fileName>
+    <timeStamp>2023-08-01T11:49:58+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b61b58319be98be43ad15ac91887398f</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/Common/LayersHelper.cs</fileName>
+    <timeStamp>2023-08-01T11:49:50+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>32b20e296d6c14845a79b109880c3d3d</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/Common/SerializedObjectHelper.cs</fileName>
+    <timeStamp>2023-08-01T11:48:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5bb9d0919ced02a4c870078463d66a1e</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/StaticCulling/StaticCullingEditorWindow.cs</fileName>
+    <timeStamp>2023-08-01T11:48:54+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4297ef2a6bb73a94192146ed499ddaab</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/StaticCulling/StaticCullingMaster.cs</fileName>
+    <timeStamp>2023-08-01T11:48:42+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3aa20a6677ac16b4e811a55a77f472b7</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/Common Old/ACSInfo.cs</fileName>
+    <timeStamp>2023-08-01T11:48:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a45ec09e449a294faa882fdf9ac1964</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/Common Old/ChunkMark.cs</fileName>
+    <timeStamp>2023-08-01T11:49:37+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cd4f596cd5d69f84bbb4ca309de4ffd2</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/Common Old/LayersHelper.cs</fileName>
+    <timeStamp>2023-08-01T11:50:01+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>57bc4f672e4dd4249bdc1d0124172c37</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/StaticCulling/BinaryTree.cs</fileName>
+    <timeStamp>2023-08-01T11:48:53+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>00a4827288ccaff4da80d1370f051ee7</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/StaticCulling/BinaryTreeNode.cs</fileName>
+    <timeStamp>2023-08-01T11:48:10+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4bc61ee2bb9e7134e9b7c2937e81d860</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/StaticCulling/BinaryTreeUtil.cs</fileName>
+    <timeStamp>2023-08-01T11:48:47+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba2ce877a6dc0e64487b26d043c2513f</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/StaticCulling/Caster.cs</fileName>
+    <timeStamp>2023-08-01T11:49:52+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd37200cad49b4442bb3646a0c6622fd</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/StaticCulling/StaticCulling.cs</fileName>
+    <timeStamp>2023-08-01T11:50:25+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2d58d7b458333164cbe7e29d43a4d2dc</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Core/Scripts/Billboards/BaseBillboard.cs</fileName>
+    <timeStamp>2023-08-01T11:48:32+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.BaseBillboard</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5413e1e7784f31240ab17fcefb635b9b</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Core/Scripts/Billboards/Billboard.cs</fileName>
+    <timeStamp>2023-08-01T11:48:51+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.Billboard</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a7191d79a1c67e742abf991837bcbbae</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Core/Scripts/Billboards/BillboardData.cs</fileName>
+    <timeStamp>2023-08-01T11:49:45+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.BillboardData</string>
+      <string>NGS.AdvancedRenderSystem.BillboardsUpdateData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>38c1b9117dc79994ca3453dd08a10ca8</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Core/Scripts/Billboards/BillboardOfGroup.cs</fileName>
+    <timeStamp>2023-08-01T11:48:37+02:00</timeStamp>
+    <typeFullName>
+      <string>NGS.AdvancedRenderSystem.BillboardOfGroup</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4f340219203e2c547acddaa7e3db2db3</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Core/Scripts/Editor/AdvancedRenderSystemEditor.cs</fileName>
+    <timeStamp>2023-08-01T11:48:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e0738097fe3c70b44b4404c4df1d4473</guid>
+    <fileName>Assets/Performance Tools/AdvancedRenderSystem/Core/Scripts/Editor/AdvancedRenderSystemEditorWindow.cs</fileName>
+    <timeStamp>2023-08-01T11:50:09+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd68f027e715c44aa8d097000d4cccfb</guid>
+    <fileName>Assets/Samples/Google Cardboard XR Plugin for Unity/1.23.0/Hello Cardboard/Scripts/CardboardStartup.cs</fileName>
+    <timeStamp>2024-02-06T05:04:13.1013272+01:00</timeStamp>
+    <typeFullName>
+      <string>CardboardStartup</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a6e858f9314cf4903a8b6b60d93e3437</guid>
+    <fileName>Assets/Samples/Google Cardboard XR Plugin for Unity/1.23.0/Hello Cardboard/Scripts/GraphicsAPITextController.cs</fileName>
+    <timeStamp>2024-02-06T05:04:13.1033116+01:00</timeStamp>
+    <typeFullName>
+      <string>GraphicsAPITextController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fb0fad8e3b2754aaeb18724ea18d2a3e</guid>
+    <fileName>Assets/Samples/Google Cardboard XR Plugin for Unity/1.23.0/Hello Cardboard/Scripts/ObjectController.cs</fileName>
+    <timeStamp>2024-02-06T05:04:13.1043096+01:00</timeStamp>
+    <typeFullName>
+      <string>ObjectController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f478d43f27e324b7199d5dccff4298b7</guid>
+    <fileName>Assets/Samples/Google Cardboard XR Plugin for Unity/1.23.0/Hello Cardboard/Scripts/VrModeController.cs</fileName>
+    <timeStamp>2024-02-06T05:04:13.1053119+01:00</timeStamp>
+    <typeFullName>
+      <string>VrModeController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a907ece591e731e49b5d7be45f089972</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.2/XR Device Simulator/Scripts/XRDeviceSimulatorControllerUI.cs</fileName>
+    <timeStamp>2023-12-20T09:41:12+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f35ac646ecbef4ece8c3eac9e74e1828</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.2/XR Device Simulator/Scripts/XRDeviceSimulatorHandsUI.cs</fileName>
+    <timeStamp>2023-12-20T09:41:12+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8b922481d9264546b97958b2c7cf0a0</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/2.5.2/XR Device Simulator/Scripts/XRDeviceSimulatorUI.cs</fileName>
+    <timeStamp>2023-12-20T09:41:12+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5f2327e70c87917418cbe0cf53e5d614</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/DynamicCulling/DC_Controller/DC_ControllerEditor.cs</fileName>
+    <timeStamp>2023-08-01T11:48:55+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8732c04f789ea44408e0be73be75b919</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/DynamicCulling/DC_Controller/DC_ControllerEditorUtil.cs</fileName>
+    <timeStamp>2023-08-01T11:49:27+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>44348c91528af0d478e03a2f853b8f32</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/DynamicCulling/DC_Controller/DC_SelectionTool.cs</fileName>
+    <timeStamp>2023-08-01T11:48:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aac7b45acb214724383c797cf825f533</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/DynamicCulling/DC_Controller/DC_Selectors.cs</fileName>
+    <timeStamp>2023-08-01T11:49:46+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>66444242316b3f5429c184482c95db7e</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Editor/DynamicCulling/DC_SourceSettings/DC_SourceSettingsEditor.cs</fileName>
+    <timeStamp>2023-08-01T11:49:01+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c4cbf7a5c5dd5384aa789157513d0f54</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/Common/Helpers/BoundsHelper.cs</fileName>
+    <timeStamp>2023-08-01T11:49:55+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>033771dcfd6cfd54db639aaf1d4aceb8</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/Common/Helpers/LODGroupHelper.cs</fileName>
+    <timeStamp>2023-08-01T11:48:11+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f76651cf35e36a143a3bb602cbf9b0e8</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_Camera/DC_Camera.cs</fileName>
+    <timeStamp>2023-08-01T11:50:22+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a6dffeb5fa95f9244be5cf35237184e3</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_Camera/DC_CameraSettings.cs</fileName>
+    <timeStamp>2023-08-01T11:49:45+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0b1ff282be6cc854cbb6122caf627144</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_Camera/DC_CameraUtil.cs</fileName>
+    <timeStamp>2023-08-01T11:48:16+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>febea78e49e8f684da3648894af8d4ec</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_Controller/DC_Controller.cs</fileName>
+    <timeStamp>2023-08-01T11:50:26+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a5b6b36a5b77eeb4db8a1e57ffcc602c</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_CullingTargetObserver/DC_CullingTargetObserver.cs</fileName>
+    <timeStamp>2023-08-01T11:49:44+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>15653a1db9dd5be4ca3714f73c77234b</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_Occluder/DC_Occluder.cs</fileName>
+    <timeStamp>2023-08-01T11:48:21+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e9095ce6df23514390e75351add3cab</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_Source/DC_MultiSource.cs</fileName>
+    <timeStamp>2023-08-01T11:48:18+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3b08c6d37d11b8c4bbca006d30cc50a3</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_Source/DC_SingleSource.cs</fileName>
+    <timeStamp>2023-08-01T11:48:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e6c875cee7cb37347bb452cbbeb62af4</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_SourceSettings/DC_SourceSettings.cs</fileName>
+    <timeStamp>2023-08-01T11:50:12+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3b0c883292c4c3f428116737002ce413</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_SourcesProvider/DC_SingleSourcesProvider.cs</fileName>
+    <timeStamp>2023-08-01T11:48:38+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f2689553226b10c4b956ec3531c668c4</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/Common/DataStructures/BinaryTree/BinaryTree.cs</fileName>
+    <timeStamp>2023-08-01T11:50:19+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4e4f1197d999ed942894eaa7137af417</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/Common/DataStructures/BinaryTree/BinaryTreeDrawer.cs</fileName>
+    <timeStamp>2023-08-01T11:48:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3cf6c8385c7e0b844accca2f3a916368</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/Common/DataStructures/BinaryTree/BinaryTreeNode.cs</fileName>
+    <timeStamp>2023-08-01T11:48:39+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>de81ca91b1bd15f4a932ab8ee785abde</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_CullingTarget/Abstractions/ICullingTarget.cs</fileName>
+    <timeStamp>2023-08-01T11:50:08+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6a1afb717ec0bb3478b766b8869d1403</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_CullingTarget/LODGroup/DC_LODGroupShadowsTarget.cs</fileName>
+    <timeStamp>2023-08-01T11:49:06+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cba722f9382002f4db7a4ba35e837b84</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_CullingTarget/LODGroup/DC_LODGroupTarget.cs</fileName>
+    <timeStamp>2023-08-01T11:49:59+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c1d8b3668c6fcc14da14a6cb7ea77ef4</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_CullingTarget/LODGroup/DC_LODGroupTargetBase.cs</fileName>
+    <timeStamp>2023-08-01T11:49:55+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>977e0d87c96f73a4f8902b723a7a1d7c</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_CullingTarget/Renderer/DC_RendererShadowsTarget.cs</fileName>
+    <timeStamp>2023-08-01T11:49:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ce984ce70e2d2cf488a495af964243cc</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_CullingTarget/Renderer/DC_RendererTarget.cs</fileName>
+    <timeStamp>2023-08-01T11:50:02+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3a4e4feba8a7cf04694ee33411aeaf45</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_CullingTarget/Renderer/DC_RendererTargetBase.cs</fileName>
+    <timeStamp>2023-08-01T11:48:37+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4bd8cf3d7f31ed84990cda4b84d0878a</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_Source/Abstraction/DC_Source.cs</fileName>
+    <timeStamp>2023-08-01T11:48:48+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7cd134dc3d5fe7641b928e55c023bddb</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_Source/Abstraction/IHitable.cs</fileName>
+    <timeStamp>2023-08-01T11:49:13+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0fbd35f3f494d2f46bcea11a287fe56f</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_SourceSettings/Strategy/DC_LODGroupSourceSettingsStrategy.cs</fileName>
+    <timeStamp>2023-08-01T11:48:19+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e88441d6c660a4b49a55dd023ba29829</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_SourceSettings/Strategy/DC_RendererSourceSettingsStrategy.cs</fileName>
+    <timeStamp>2023-08-01T11:50:14+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cc453fecfb1926649938aa4da554aa1a</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_SourcesProvider/Abstraction/IDC_SourcesProvider.cs</fileName>
+    <timeStamp>2023-08-01T11:50:00+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2a8109e83931b2d4290773b8a5052dce</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_SourcesProvider/DC_SourcesTree/DC_SourcesTree.cs</fileName>
+    <timeStamp>2023-08-01T11:48:31+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5e72ffe77a57cb640a2977856cec9253</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_SourcesProvider/DC_SourcesTree/DC_SourcesTreeNode.cs</fileName>
+    <timeStamp>2023-08-01T11:48:55+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>97241d2b3681de043b2591ba5e794630</guid>
+    <fileName>Assets/Performance Tools/AdvancedCullingSystem/Core/Runtime/DynamicCulling/DC_SourceSettings/Strategy/Interface/IDC_SourceSettingsStrategy.cs</fileName>
+    <timeStamp>2023-08-01T11:49:35+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
