@@ -20,6 +20,8 @@
 # But don't ignore these folders
 !/Assets/TempleMan/
 
+TempleGlide.rar
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
