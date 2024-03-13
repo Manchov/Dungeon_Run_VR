@@ -35,6 +35,38 @@ In "Dungeon Run," players assume the role of a knight trapped within the confine
 
 Contributions to "Dungeon Run" are welcome! If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request.
 
+# Game Release
+
+The latest version of "Dungeon Run" is available as a downloadable APK in the [Releases](https://github.com/Manchov/Dungeon_Run_VR/releases) section of this repository. This APK is compatible with Android devices and has been optimized for use with Google Cardboard VR.
+
+## Installation Instructions
+
+To install "Dungeon Run" on your Android device, follow these steps:
+
+1. Navigate to the [Releases](https://github.com/Manchov/Dungeon_Run_VR/releases) section of this GitHub repository.
+2. Download the latest `.apk` file from the list of releases.
+3. Transfer the downloaded `.apk` file to your Android device.
+4. On your Android device, navigate to Settings > Security, and enable "Unknown sources" to allow installation of apps from sources other than the Google Play Store.
+5. Use a file manager app to locate the `.apk` file on your device and tap it to begin the installation process.
+6. Follow the on-screen instructions to install the game.
+7. Once installed, tap the "Dungeon Run" icon from your device's app drawer to start the game.
+
+## How to Play
+
+"Dungeon Run" is a VR exploration game where you navigate through a mysterious dungeon, collecting coins and finding the exit. To play "Dungeon Run," you'll need any Google Cardboard-compatible VR headset.
+
+1. Launch the game on your Android device and place the device into your Google Cardboard VR headset.
+2. Navigate through the dungeon by looking around in your VR environment. The game uses head-tracking to control movement direction.
+3. Interact with objects, collect coins, and unlock doors by focusing your gaze on interactive elements within the game.
+4. Find the exit to complete the dungeon run and achieve the highest score possible by collecting coins and completing the dungeon in the shortest time.
+
+## Game Screenshots
+
+![Main Hall](images/img_2.jpg)
+![Main menu](images/img_4.jpg)
+![Crystal water cave](images/img_1.jpg)
+![Crystal cave](images/img_3.jpg)
+
 
 ---
 
